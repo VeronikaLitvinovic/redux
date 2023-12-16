@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1702586170670,
+      "email": "a@mail.ru",
+      "password": "1234",
+      "createdAt": 1701025108532
+    },
+    {
+      "email": "a2@mail.ru",
+      "password": "1234",
+      "createsAt": 1702759026991,
+      "id": 1702586170676
+    }
+  ],
+  "notes": [
+  ]
+}
